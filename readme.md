@@ -12,8 +12,9 @@ Configure your settings in settings.ini
 
 
 #### Raspberry pi Zero W 
-#### RGB-led, connected to 
-#### Case
+#### RGB-led, pins can be configured
+If RGB-led is not working, check the type of the led
+Resistors for led also needed.
 
 ### Notes
 quit the program loop with q (enter)
