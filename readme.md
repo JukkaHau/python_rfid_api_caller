@@ -11,23 +11,24 @@ Python, pip. Tested with Python 2.7.15rc1 on Linux
 Configure your settings in settings.ini
 
 
-####Raspberry pi Zero W 
-####RGB-led, connected to 
-####Case
+#### Raspberry pi Zero W 
+#### RGB-led, connected to 
+#### Case
 
-###Notes
+### Notes
 quit the program loop with q (enter)
 
-###Notes
+### Notes
 
-Video:
+#### Video:
 https://youtu.be/mtTQJ9GetN4
 
-Photos and case:
+#### Photos and case:
 https://www.thingiverse.com/thing:4246905
 
 
+#### OS
+Used Pihole as os, but you can use any
 
-
-###License
+### License
 This project is licensed under the MIT License.
