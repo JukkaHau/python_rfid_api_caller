@@ -9,6 +9,8 @@ Python, pip. Tested with Python 2.7.15rc1 on Linux
 1. pip install requests
 2. pip install click
 Configure your settings in settings.ini
+#### Notes
+quit the program loop with q (enter)
 
 
 #### Raspberry pi Zero W 
@@ -16,10 +18,6 @@ Configure your settings in settings.ini
 If RGB-led is not working, check the type of the led
 Resistors for led also needed.
 
-### Notes
-quit the program loop with q (enter)
-
-### Notes
 
 #### Video:
 https://youtu.be/mtTQJ9GetN4
